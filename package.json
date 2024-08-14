@@ -1,12 +1,11 @@
 {
-  "name": "paradise-nursery",
+  "name": "paradise",
   "private": true,
-  "homepage": "https://github.com/miguecarmona12/paradise.git",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "start": "vite",
     "build": "vite build",
