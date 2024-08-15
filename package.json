@@ -1,6 +1,6 @@
 {
   "name": "paradise",
-  "private": true,
+  "private": false,
   "homepage": "https://miguecarmona12.github.io/paradise",
   "version": "0.0.0",
   "type": "module",
